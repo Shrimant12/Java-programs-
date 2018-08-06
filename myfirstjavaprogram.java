@@ -1,9 +1,9 @@
-class myfirstjavaprogram
+class first
 {
-  public static void main(String args[])
-  {
-      System.out.println("Hello world\n");
-
-  }
+	public static void main(String args[])
+	{
+	
+		System.out.println("Hello Github");
+	}
 
 }
