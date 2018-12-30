@@ -9,6 +9,7 @@ class arithmetic
 	{
 				
 			int x,y;
+			int add,sub,mult;
 			
 			Scanner sc = new Scanner(System.in);
 
