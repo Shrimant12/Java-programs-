@@ -9,6 +9,7 @@ class A
 	}	
 }
 
+
 class B extends A
 {
 	void method2()
